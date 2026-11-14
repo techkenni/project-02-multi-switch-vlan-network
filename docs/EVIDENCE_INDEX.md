@@ -1,6 +1,6 @@
 # Project 02 evidence index
 
-Place the nine Packet Tracer screenshots in this directory using the exact filenames below.
+The nine Packet Tracer screenshots listed below are included in this directory.
 
 | File | Evidence |
 |---|---|
@@ -14,10 +14,10 @@ Place the nine Packet Tracer screenshots in this directory using the exact filen
 | `08_sw1_stp_root.png` | SW1 root bridge verification |
 | `09_sw2_stp_root_ports.png` | SW2 Root Port verification for VLANs 10, 20 and 30 |
 
-The native Packet Tracer simulation should be added to the repository root as:
+The native Packet Tracer simulation is included in the repository root as:
 
 `Project 02 - Multi-Switch VLAN Network.pkt`
 
-The Word report should be added under `docs/` as:
+The separate Word report has not yet been added. Its intended path under `docs/` is:
 
 `KenniTech_Project_02_Multi_Switch_VLAN_Report.docx`
