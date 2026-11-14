@@ -201,7 +201,7 @@ The CLI evidence showed the save operation completing with `[OK]`.
 
 ## Evidence
 
-Screenshots are stored in the [`evidence/`](evidence/) directory. The evidence files will be added to this repository with the final upload.
+The nine original Packet Tracer evidence screenshots are included in the [`evidence/`](evidence/) directory and linked in the table below.
 
 | Evidence | File |
 |---|---|
@@ -221,7 +221,7 @@ Add the native Packet Tracer file to the repository root:
 
 `Project 02 - Multi-Switch VLAN Network.pkt`
 
-The detailed [Markdown technical report](docs/technical-report.md) and [evidence index](docs/EVIDENCE_INDEX.md) are committed. Upload the downloaded Word report, nine screenshot files and native Packet Tracer `.pkt` file through GitHub's web interface. Binary uploads are not supported reliably by the connected GitHub file-writing action.
+The native Packet Tracer simulation and all nine evidence screenshots are included in this repository. The detailed [Markdown technical report](docs/technical-report.md) and [evidence index](docs/EVIDENCE_INDEX.md) are also committed. The separate Word report is not yet in the repository.
 
 ## Skills demonstrated
 
